@@ -12,7 +12,7 @@ Welcome to Git Hero 2023 !!
 
 ## Instructions
 
-- Hack your way to the attendance database through the [issues](https://github.com/KamandPrompt/GitHero_2023/issues) tab. 
+- Hack your way to the attendance database through the [issues](https://github.com/singhekansh/GitHero_2023/issues) tab. 
 - Start with Task 1. Complete your endeavour with Task 7.
 - Everything is procedural, thus proceed from Task 1 to Task 7 in order. 
 
